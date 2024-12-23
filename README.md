@@ -1,4 +1,4 @@
-![Sonar Logo](![sonarnewlogo](https://github.com/user-attachments/assets/b403b25e-f721-4ea7-bbe1-be573c9a3602)
+![Sonar Logo](https://github.com/user-attachments/assets/b403b25e-f721-4ea7-bbe1-be573c9a3602)
 
 > [!NOTE]
 > Sonar is obviously detected. Please be careful of how you use your scripts.
