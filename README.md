@@ -1,9 +1,6 @@
 > [!NOTE]
 > Sonar is discontinued. This is the repository for Eclipse now.
 
-> [!NOTE]
-> Eclipse may be detected.
-
 # Eclipse and Sonar
 This is the official page for the downloads for Eclipse and the Sonar archive and both sources. Eclipse's source is going to be very soon.
 you could also join the discord ![here.](https://dsc.gg/industries)
